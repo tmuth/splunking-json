@@ -1,0 +1,20 @@
+{
+    "name":"John",
+    "age":30,
+    "cars":["Ford", "BMW", "Fiat"]
+    }
+    {
+    "name":"Jill",
+    "age":33,
+    "cars":["Chevrolet", "Audi"]
+    }
+    {
+    "name":"Natalie",
+    "age":20,
+    "cars":["Jeep", "Mazda", "Tesla","Lotus"]
+    }
+    {
+    "name":"Colin",
+    "age":25,
+    "cars":["Tesla"]
+    }
